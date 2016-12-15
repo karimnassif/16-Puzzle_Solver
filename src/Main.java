@@ -35,7 +35,7 @@ public class Main {
 
 
 
-        do {
+        do {                            //Breadth-First Search
 
             current = queue.remove(); //Retrieve head of list, give value to board current
 
